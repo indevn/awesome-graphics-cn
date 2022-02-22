@@ -24,15 +24,13 @@
 - Repo：[Game-Programmer-Study-Notes](https://github.com/QianMo/Game-Programmer-Study-Notes)  by 毛星云
 
   （“我的游戏程序员生涯的读书笔记合辑。你可以把它看作一个加强版的Blog。涉及图形学、实时渲染、编程实践、GPU编程、设计模式、软件工程等内容。”）
-
-- 
+  
 
 ## 经典书籍及相关笔记
 
 - **Real-Time Rendering 3rd**
   - [《Real-Time Rendering 3rd》提炼总结](https://github.com/QianMo/Real-Time-Rendering-3rd-CN-Summary-Ebook) by 毛星云
-  - [《Real-Time Rendering 3rd》知识网络图谱](https://github.com/QianMo/Game-Programmer-Study-Notes/tree/master/Content/《Real-Time Rendering 3rd》知识网络图谱) by 毛星云
-  - [《Real-Time Rendering 4th》 (RTR4) 参考文献合集典藏](https://github.com/QianMo/Real-Time-Rendering-4th-Bibliography-Collection) by 毛星云
+  - [《Real-TimeRendering 4th》 (RTR4) 参考文献合集典藏](https://github.com/QianMo/Real-Time-Rendering-4th-Bibliography-Collection) by 毛星云
 - **GPU Gems**
 
 ## 相关编程和计算机基础
