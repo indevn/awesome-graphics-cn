@@ -13,7 +13,12 @@
 - [有关图形学入门的一些思考·渲染篇](https://zhuanlan.zhihu.com/p/288276231) by 探寻可能
 
 ## 优秀的图形学相关专栏/博客
-- [数字元素之国](https://zhuanlan.zhihu.com/p/288276231) by 探寻可能
+- 知乎专栏：[数字元素之国](https://zhuanlan.zhihu.com/p/288276231) by 探寻可能
+- 博客：[Blog of Martin Z He](http://blog.apassbydreg.work/)  
+- 知乎专栏：[游戏引擎：物理和动画
+](https://zhuanlan.zhihu.com/c_1446196282121043968)
+
+
 ## 数学基础
 - 辐射度量学
   - [辐射度量学](https://zhuanlan.zhihu.com/p/139468429) by 0110君
