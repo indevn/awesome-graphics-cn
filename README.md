@@ -11,6 +11,9 @@
 - [什么是计算机图形学?](http://staff.ustc.edu.cn/~lgliu/Resources/CG/What_is_CG.htm) by 刘利刚
 - [如何自学《计算机图形学》& C++面向对象编程？](http://staff.ustc.edu.cn/~lgliu/Resources/CG/How_to_Learn_CG&Coding.htm) by 刘利刚
 - [有关图形学入门的一些思考·渲染篇](https://zhuanlan.zhihu.com/p/288276231) by 探寻可能
+
+## 优秀的图形学相关专栏/博客
+- [数字元素之国](https://zhuanlan.zhihu.com/p/288276231) by 探寻可能
 ## 数学基础
 - 辐射度量学
   - [辐射度量学](https://zhuanlan.zhihu.com/p/139468429) by 0110君
