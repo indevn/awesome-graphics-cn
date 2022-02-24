@@ -5,8 +5,9 @@
 
 同时，很多国内优秀的图形学相关学习者都会将自己的写成笔记，后者包含方向性的指引或对某一专题的详细解释。而国内没有统一的图形学社区，很多资源都分散在博客或知乎中。
 
-此Repo意在将这些资源进行整合，让有需要的人可以更加便捷地进行检索。
+此Repo意在将这些资源进行整合，让有需要的人可以更加便捷地进行检索。可以理解为一个图形相关的”共享收藏夹“。
 
+图形学包括但不限于渲染、模拟、几何等领域，但由于我的个人能力水平有限，目前接触的的领域和资源也有限，这个Repo的内容目前还很有局限。欢迎提交Pull Request，也欢迎大家在这里分享自己的博客。
 
 ## 基本介绍与学习方向
 
@@ -42,7 +43,6 @@
 
 - **Real-Time Rendering 3rd**
   - [《Real-Time Rendering 3rd》提炼总结](https://github.com/QianMo/Real-Time-Rendering-3rd-CN-Summary-Ebook) by 毛星云
-  - [《Real-Time Rendering 3rd》知识网络图谱](https://github.com/QianMo/Game-Programmer-Study-Notes/tree/master/Content/《Real-Time Rendering 3rd》知识网络图谱) by 毛星云
   - [《Real-Time Rendering 4th》 (RTR4) 参考文献合集典藏](https://github.com/QianMo/Real-Time-Rendering-4th-Bibliography-Collection) by 毛星云
   
 - **Physically Based Rendering: From Theory To Implementation**（pbrt book）
