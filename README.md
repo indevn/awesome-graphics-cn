@@ -20,6 +20,7 @@
 
 - [如何自学《计算机图形学》& C++面向对象编程？](http://staff.ustc.edu.cn/~lgliu/Resources/CG/How_to_Learn_CG&Coding.htm) by 刘利刚
 - [有关图形学入门的一些思考·渲染篇](https://zhuanlan.zhihu.com/p/288276231) by 探寻可能
+- [关于实时渲染和图形API的一些学习资料收录](https://zhuanlan.zhihu.com/p/456417172)
 
 ## 图形学相关专栏/博客
 - 知乎专栏：[数字元素之国](https://www.zhihu.com/column/c_1026053199056265216) 
