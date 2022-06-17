@@ -33,8 +33,13 @@
 - [渲染教程框架目录](https://docs.qq.com/doc/DUFdKZE1oVFd3ZlBs) by May
 - [图形学论文解析与复现](https://zhuanlan.zhihu.com/p/357265599)（[复现Repo](https://github.com/AngelMonica126/GraphicAlgorithm)）
 
-## 课程笔记
+## 课程及相关笔记
 
+### 课程
+- [GAMES101]()
+- [科大 暑期课程](http://staff.ustc.edu.cn/~renjiec/SummerSchool_2022/index.html)
+
+### 相关笔记
 - [GAMES101 作业问题整理](https://zhuanlan.zhihu.com/p/375391720) by [b1gm0use](https://www.zhihu.com/people/b1gm0use)
 - [计算机图形学专栏汇总](https://zhuanlan.zhihu.com/p/349574600) by [Eternity](https://www.zhihu.com/people/AlbertRen)
   GAMES101、102、104、201、202笔记
