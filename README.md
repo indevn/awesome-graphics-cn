@@ -11,40 +11,36 @@
 
 ## 基本介绍与学习方向
 
-计算机图形学及其研究对象
-
 - [数学在计算机图形学中的应用](http://staff.ustc.edu.cn/~lgliu/Resources/CG/Math_for_CG_Turk_CN.htm) by 刘利刚
 - [什么是计算机图形学?](http://staff.ustc.edu.cn/~lgliu/Resources/CG/What_is_CG.htm) by 刘利刚
-
-学习思路
-
 - [如何自学《计算机图形学》& C++面向对象编程？](http://staff.ustc.edu.cn/~lgliu/Resources/CG/How_to_Learn_CG&Coding.htm) by 刘利刚
 - [有关图形学入门的一些思考·渲染篇](https://zhuanlan.zhihu.com/p/288276231) by 探寻可能
 - [关于实时渲染和图形API的一些学习资料收录](https://zhuanlan.zhihu.com/p/456417172)
+- [科研论文如何想到不错的 idea？](https://www.zhihu.com/question/300967426/answer/2026222287) by 王嘉平
+- [真实感图形渲染科研入门笔记：论文推荐](https://zhuanlan.zhihu.com/p/267368385) by Zachary
+- [真实感图形渲染科研入门笔记：工具链与参考资料](https://zhuanlan.zhihu.com/p/268902385) by Zachary
 
 ## 图形学相关专栏/博客
 - [数字元素之国](https://www.zhihu.com/column/c_1026053199056265216) 
 - [Blog of Martin Z He](http://blog.apassbydreg.work/)  
 - [游戏引擎：物理和动画](https://zhuanlan.zhihu.com/c_1446196282121043968) （“萌新，从GAMES103开始学”）
 - [物理模拟](https://www.zhihu.com/column/c_1445731604303523840) （“计算机图形学物理模拟的尝试”）
-- [Game-Programmer-Study-Notes](https://github.com/QianMo/Game-Programmer-Study-Notes)  by 毛星云（“读书笔记合辑，涉及图形学、实时渲染、编程实践、GPU编程、设计模式、软件工程等内容。”）
-
-
+- [Game-Programmer-Study-Notes](https://github.com/QianMo/Game-Programmer-Study-Notes)  by 毛星云
 - [渲染教程框架目录](https://docs.qq.com/doc/DUFdKZE1oVFd3ZlBs) by May
 - [图形学论文解析与复现](https://zhuanlan.zhihu.com/p/357265599)（[复现Repo](https://github.com/AngelMonica126/GraphicAlgorithm)）
+- [高级计算机图形学——真实感图像合成](https://zhuanlan.zhihu.com/p/459580639) by [zhiwei](https://www.zhihu.com/people/zhiwei-53-83)
 
 ## 课程及相关笔记
 
 ### 课程
-- [GAMES101]()
+- [GAMES系列]()
 - [科大 暑期课程](http://staff.ustc.edu.cn/~renjiec/SummerSchool_2022/index.html)
+- [王贝贝老师渲染课程]()
 
 ### 相关笔记
 - [GAMES101 作业问题整理](https://zhuanlan.zhihu.com/p/375391720) by [b1gm0use](https://www.zhihu.com/people/b1gm0use)
 - [计算机图形学专栏汇总](https://zhuanlan.zhihu.com/p/349574600) by [Eternity](https://www.zhihu.com/people/AlbertRen)
   GAMES101、102、104、201、202笔记
-- [高级计算机图形学——真实感图像合成](https://zhuanlan.zhihu.com/p/459580639) by [zhiwei](https://www.zhihu.com/people/zhiwei-53-83)
-  GAMES101及ZJU课程笔记
 - [Games202 高质量实时渲染课堂笔记](https://zhuanlan.zhihu.com/p/363333150) by [CarlH3](https://www.zhihu.com/people/whys0far)
 
 ## 经典书籍及相关笔记
@@ -54,13 +50,9 @@
 
 - [基于物理的渲染：从理论到实现 中文整合翻译计划](https://github.com/kanition/pbrtbook) by [kanition](https://github.com/kanition)
 
-  （[翻译进度](https://github.com/kanition/pbrtbook/projects/1)， [Releases](https://github.com/kanition/pbrtbook/releases)）
+- PBRT 零基础到精通系列书（[基础理论与代码实战](https://dezeming.top/?page_id=50)， [专业知识理论与代码实战](https://dezeming.top/?page_id=342)） by [Dezeming Family](https://dezeming.top/)
 
-- PBRT 零基础到精通系列书 by [Dezeming Family](https://dezeming.top/)
-
-  （[PBRT基础理论与代码实战](https://dezeming.top/?page_id=50)， [PBRT专业知识理论与代码实战](https://dezeming.top/?page_id=342)）
-
-- **GPU Gems**
+- GPU Gems
 
 ## 编程和计算机基础
 
@@ -72,6 +64,11 @@
 - [四元数与三维旋转](https://krasjet.github.io/quaternion/) by Krasjet
 
 - [辐射度量学](https://zhuanlan.zhihu.com/p/139468429) by 0110君
+
+## 渲染器及其使用
+- [mitsuba使用](https://www.zhihu.com/column/c_1533497780781248512) by PureWhiteVK
+- [开源渲染引擎源码比较——材质篇](https://zhuanlan.zhihu.com/p/436758134) by 胡虎护弧呼
+
 
 ## 其它资源整理
 - [图形学物理模拟领域资源整理](https://zhuanlan.zhihu.com/p/444931303)
